@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="expense_categories">
+        <item>-- Выберите Категорию --</item>
+        <item>Еда и продукты</item>
+        <item>Транспорт</item>
+        <item>Коммунальные услуги</item>
+        <item>Развлечения</item>
+        <item>Одежда и обувь</item>
+        <item>Здоровье и медицина</item>
+        <item>Своя категория (введите ниже)</item>
+    </string-array>
+</resources>
